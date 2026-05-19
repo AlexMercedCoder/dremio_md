@@ -1,6 +1,6 @@
 # Dremio AI Agent Reference Guide
 
-For each tool, read the docs and learn how credentials are expected, and explain to the user how to provide credentials safely so you can satisfy their Dremio-related requests.
+For each tool, read the docs and learn how credentials are expected, and explain to the user how to provide credentials safely so you can satisfy their Dremio-related requests. If the user didn't specify cloud/software or what they are planning to do (run some SQL against Dremio (use CLI), write some Python scripts, etc.), ask them to help identify which tools' docs you should read.
 
 **Command Line Interfaces (CLIs)**
 - **Cloud CLI (Default)**: Use for Dremio Cloud interactions. https://github.com/dremio/cli & https://docs.dremio.com/dremio-cloud/ai-integration/cli
